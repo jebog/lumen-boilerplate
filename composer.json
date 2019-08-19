@@ -1,11 +1,19 @@
 {
-  "name": "lloricode/lumen-boilerplate",
-  "description": "The Lumen boilerplate project.",
+  "name": "jebog/lumen-boilerplate",
+  "description": "The Lumen API boilerplate project.",
   "keywords": [
     "framework",
     "laravel",
     "lumen",
     "boilerplate"
+  ],
+  "authors": [
+    {
+      "name": "Jean-Marc Amon",
+      "email": "jmbdilem@gmail.com",
+      "homepage": "https://marclabs.com",
+      "role": "Developer"
+    }
   ],
   "license": "MIT",
   "type": "project",
