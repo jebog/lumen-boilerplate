@@ -1,6 +1,6 @@
 # [Lumen 5.7 Boilerplate + Docker](https://github.com/jebog/lumen-boilerplate)
 
-[![Build Status](https://travis-ci.org/jebog/lumen-boilerplate.svg?branch=master)](https://travis-ci.org/lloricode/lumen-boilerplate)
+[![Build Status](https://travis-ci.org/jebog/lumen-boilerplate.svg?branch=master)](https://travis-ci.org/jebog/lumen-boilerplate)
 
 A template made from [Lumen 5.7.*](https://lumen.laravel.com/), authenticated with [laravel/passport](https://github.com/laravel/passport)
 
