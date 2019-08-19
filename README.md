@@ -1,6 +1,6 @@
-# [Lumen 5.7 Boilerplate](https://github.com/lloricode/lumen-boilerplate)
+# [Lumen 5.7 Boilerplate + Docker](https://github.com/jebog/lumen-boilerplate)
 
-[![Build Status](https://travis-ci.org/lloricode/lumen-boilerplate.svg?branch=master)](https://travis-ci.org/lloricode/lumen-boilerplate)
+[![Build Status](https://travis-ci.org/jebog/lumen-boilerplate.svg?branch=master)](https://travis-ci.org/lloricode/lumen-boilerplate)
 
 A template made from [Lumen 5.7.*](https://lumen.laravel.com/), authenticated with [laravel/passport](https://github.com/laravel/passport)
 
@@ -30,7 +30,7 @@ A template made from [Lumen 5.7.*](https://lumen.laravel.com/), authenticated wi
 - run `composer coverage-txt` to see code coverage via `terminal`.
 
 
-## Laravel/Lumen Docker Scaffold
+## Lumen Docker Scaffold
 
 ### **Description**
 
