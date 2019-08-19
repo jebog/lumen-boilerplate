@@ -127,6 +127,10 @@ The following values should be replaced in your `.env` file if you're willing to
 
 See also the list of [contributors](https://github.com/lloricode/lumen-boilerplate/graphs/contributors) who participated in this project.
 
+## Thanks to
+* Lumen API Boilerplate [lloricode](https://github.com/lloricode/lumen-boilerplate)
+* Laravel Lumen Docker [lephleg](https://github.com/lephleg/laravel-lumen-docker)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/lloricode/lumen-boilerplate/blob/master/LICENSE) file for details
