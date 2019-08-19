@@ -125,7 +125,7 @@ The following values should be replaced in your `.env` file if you're willing to
 * [mpociot/laravel-apidoc-generator](https://github.com/mpociot/laravel-apidoc-generator) - Laravel API Documentation Generator
 
 
-See also the list of [contributors](https://github.com/lloricode/lumen-boilerplate/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/jebog/lumen-boilerplate/graphs/contributors) who participated in this project.
 
 ## Thanks to
 * Lumen API Boilerplate [lloricode](https://github.com/lloricode/lumen-boilerplate)
